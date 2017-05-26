@@ -1,0 +1,14 @@
+{
+  "name": "webppl-call-async",
+  "version": "0.0.1",
+  "description": "Provides a method of calling async. JS functions from WebPPL.",
+  "webppl": {
+    "headers": ["src/header.js"]
+  },
+  "main": "src/library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/null-a/webppl-call-async.git"
+  },
+  "homepage": "https://github.com/null-a/webppl-call-async"
+}
